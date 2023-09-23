@@ -1,4 +1,8 @@
-### Hi there 👋
+Hi there 👋
+
+Hi, I'm a developer of the treeselectjs and his wrappers for Vue and React. You can buy me a coffee if you want to support my work. Thank you!
+
+<a href="https://www.buymeacoffee.com/dipson88" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 <!--
 **dipson88/dipson88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
